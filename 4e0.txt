@@ -1,6 +1,3 @@
-agl-intl.hotstar.com
-bifrost-api.hotstar.com
-fp-analytics.hotstar.com
 hb-analytics.hotstar.com
 hotstar.pubnub.net
 hotstar.worldgravity.com
