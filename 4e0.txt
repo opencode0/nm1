@@ -1,13 +1,3 @@
-agl-intl.hotstar.com
-bifrost-api.hotstar.com
-fp-analytics.hotstar.com
-hb-analytics.hotstar.com
-hotstar.pubnub.net
-hotstar.worldgravity.com
-logs.hotstar.com
-segment.hotstar.com
-settings-analytics.hotstar.com
-vs.hotstar.com
 abroad.api.comm.intl.miui.com
 activity.browser.intl.miui.com
 admin.jupiter.intl.sys.miui.com
